@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import { SvgIcon, TextField, Link, Button } from '@mui/material';
-import CloseFilled1 from 'public/assets/images/_CloseFilled.svg';
+import { ReactComponent as CloseFilled1 } from 'assets/images/_CloseFilled.svg';
 import { styled } from '@mui/material/styles';
 
  
